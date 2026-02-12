@@ -1,4 +1,4 @@
-# operating-system-based-projects
+
 # Operating Systems Synchronization Problems
 
 This project implements classical operating system synchronization problems using C and POSIX threads.
